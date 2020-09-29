@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Lab 2W</string>
+    <string name="noticeText">Тільки в стані надзвичайного голодування організм вимагатиме менше сну</string>
+    <string name="button_sleep">Сон</string>
+    <string name="button_date">Календар</string>
+    <string name="button_sport">Спорт</string>
+    <string name="button_intelligence">Навчання</string>
+    <string name="button_rpg">Завдання</string>
+    <string name="button_metrics">Статистика</string>
+</resources>
