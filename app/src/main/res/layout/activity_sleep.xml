@@ -7,4 +7,10 @@
         android:layout_height="match_parent"
         tools:context=".SleepActivity">
 
+    <ImageView
+            android:layout_width="190dp"
+            android:layout_height="208dp" app:srcCompat="@drawable/button_sleep" android:id="@+id/imageView2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
